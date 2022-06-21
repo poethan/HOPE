@@ -6,6 +6,8 @@ File instruction:
 Open-source for non-profit research. 
 For comercial usage, please contact: @copyright Logrus Global <serge.gladkoff [at] logrusglobal.com> https://logrusglobal.com 
 
+**PPT-download, presentation and demo** https://drive.google.com/drive/folders/1lOSiMe3cFmzSt6vtovJGU6MZ8t2bs_0Y?usp=sharing 
+
 ------------------------
 Reference:
 
